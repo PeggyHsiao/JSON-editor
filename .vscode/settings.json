@@ -1,0 +1,12 @@
+{
+    "vetur.validation.template": false,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue"
+    ],
+    "files.eol": "\r\n",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  }
